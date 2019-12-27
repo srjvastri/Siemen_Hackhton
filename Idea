@@ -1,0 +1,35 @@
+In India, more than 4 million people have some form of dementia. Worldwide, at least 44 million people are living with dementia, making the disease a global health crisis that must be addressed. Alzheimer's disease is the most common type of dementia, an overall term for conditions that occur when the brain no longer functions properly. A diagnosis of Alzheimer’s is life-changing for the person with the disease, as well as their family and friends, but with proper information and support the degeneration of brain can be slowed down and possibly reversed and healed. No one has to face Alzheimer’s disease or other dementia alone. Alzheimer’s disease and related dementias can cause seniors to withdraw from activities, family and friends. It’s extremely important to maintain those interests and relationships, however, because it reduces the effects of memory impairment, leading to a better quality of life.
+
+In our app, we are trying to replicate the results of the brain rehabilitation program to help the patients not only remember but also slows down the degeneration and possibly heal their brain.
+
+The app will not only contain accessibility features for the safety and well-being of the patient but it will also implement a brain rehabilitation program tailored for the individual patient.
+
+The full suite will contain a WebApp dashboard and Android App with a separate patient and caretaker logins. The WebApp dashboard can also be used by the Doctor to track the improvements and degradation in memory for the treatment.
+
+Tech Stack Web Dashboard HTML, CSS, Bootstrap, Javascript, Python, Django
+
+Virtual Assistant Azure Web Services, Node.js
+
+Android Application Java, Android Studio, Flutter, Dart, Firebase
+
+Intended Approach The idea is to make an Android app and a WebApp Dashboard. The app will have the following features :
+
+Memory games : To help the patient remember things like names of the family member, relation with them and a lot of other things. There are some games which challenge the patient’s memory and these simulate their brain and help them retain information for a longer duration. There’ll be some puzzles and some other challenging games for the patient which can be chosen by the caregiver or the doctor. Some games might help some patients but some might not, so the performance in these games will be used to analyse what type of activity that should be chosen for the patient.
+
+How are you feeling today? To record moods(happy, sad, angry etc) of patients every day which will later help in diagnosis.
+
+Identification Using this feature the patient can point his phone’s camera to anyone’s face and know that person’s name and relation with the patient. If the person is not in records and it’s some new acquaintance then that person can be added in the record along with the relationship that he has with the patient by the caretaker.
+
+Medicine and appointment reminders Android app will have timely reminders for medicines and appointments. This data will be fed by the caretaker.
+
+GPS Tracker Dementia and Alzheimer’s patients due to their weak memory may get lost sometimes so using GPS they can be easily tracked down and the caretaker will get timely updates of patient’s location
+
+SOS For emergency situations.
+
+Soothing Music The patients are often known to be confused and irritated even by small things. Music is one approach that soothes one’s mind and calms them. The application will have a list of mood changing songs that can help relax their minds.
+
+Virtual Assistant A virtual assistant will be integrated into the app for better assistance to the patient. Keeping in mind that the patients could also be old people, the interface would be relatively easy to use and simple to understand.
+
+WebApp Dashboard The dashboard will provide an overview of the patient’s activity over a period of time. The reports generated here can be used to track the progress of the disease and the effectiveness of the brain habilitation program.
+
+Advanced Implementation The application will be linked with a digital watch that can track the location, send SOS and also measure the pulse of the patient. In case of drastic change in pulse, an alert will be sent to the caretaker.
